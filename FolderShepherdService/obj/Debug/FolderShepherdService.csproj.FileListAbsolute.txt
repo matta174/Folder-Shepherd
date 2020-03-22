@@ -1,0 +1,12 @@
+C:\Users\Matthew\source\repos\FolderShepherdService\FolderShepherdService\bin\Debug\FolderShepherdService.exe.config
+C:\Users\Matthew\source\repos\FolderShepherdService\FolderShepherdService\bin\Debug\FolderShepherdService.exe
+C:\Users\Matthew\source\repos\FolderShepherdService\FolderShepherdService\bin\Debug\FolderShepherdService.pdb
+C:\Users\Matthew\source\repos\FolderShepherdService\FolderShepherdService\obj\Debug\FolderShepherdService.FolderShepherdService.resources
+C:\Users\Matthew\source\repos\FolderShepherdService\FolderShepherdService\obj\Debug\FolderShepherdService.ProjectInstaller.resources
+C:\Users\Matthew\source\repos\FolderShepherdService\FolderShepherdService\obj\Debug\FolderShepherdService.csproj.GenerateResource.cache
+C:\Users\Matthew\source\repos\FolderShepherdService\FolderShepherdService\obj\Debug\FolderShepherdService.exe
+C:\Users\Matthew\source\repos\FolderShepherdService\FolderShepherdService\obj\Debug\FolderShepherdService.pdb
+C:\Users\Matthew\source\repos\FolderShepherdService\FolderShepherdService\obj\Debug\FolderShepherdService.csprojAssemblyReference.cache
+C:\Users\Matthew\source\repos\FolderShepherdService\FolderShepherdService\bin\Debug\FileManager.dll
+C:\Users\Matthew\source\repos\FolderShepherdService\FolderShepherdService\bin\Debug\FileManager.pdb
+C:\Users\Matthew\source\repos\FolderShepherdService\FolderShepherdService\obj\Debug\FolderShepherdService.csproj.CopyComplete

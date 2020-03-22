@@ -1,0 +1,5 @@
+C:\Users\Matthew\source\repos\FolderShepherdService\FileManager\bin\Debug\FileManager.dll
+C:\Users\Matthew\source\repos\FolderShepherdService\FileManager\bin\Debug\FileManager.pdb
+C:\Users\Matthew\source\repos\FolderShepherdService\FileManager\obj\Debug\FileManager.dll
+C:\Users\Matthew\source\repos\FolderShepherdService\FileManager\obj\Debug\FileManager.pdb
+C:\Users\Matthew\source\repos\FolderShepherdService\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache

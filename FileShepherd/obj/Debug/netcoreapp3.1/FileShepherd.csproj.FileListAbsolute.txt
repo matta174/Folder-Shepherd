@@ -1,0 +1,11 @@
+C:\Users\Matthew\source\repos\FolderShepherdService\FileShepherd\bin\Debug\netcoreapp3.1\FileShepherd.exe
+C:\Users\Matthew\source\repos\FolderShepherdService\FileShepherd\bin\Debug\netcoreapp3.1\FileShepherd.deps.json
+C:\Users\Matthew\source\repos\FolderShepherdService\FileShepherd\bin\Debug\netcoreapp3.1\FileShepherd.runtimeconfig.json
+C:\Users\Matthew\source\repos\FolderShepherdService\FileShepherd\bin\Debug\netcoreapp3.1\FileShepherd.runtimeconfig.dev.json
+C:\Users\Matthew\source\repos\FolderShepherdService\FileShepherd\bin\Debug\netcoreapp3.1\FileShepherd.dll
+C:\Users\Matthew\source\repos\FolderShepherdService\FileShepherd\bin\Debug\netcoreapp3.1\FileShepherd.pdb
+C:\Users\Matthew\source\repos\FolderShepherdService\FileShepherd\obj\Debug\netcoreapp3.1\FileShepherd.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\FolderShepherdService\FileShepherd\obj\Debug\netcoreapp3.1\FileShepherd.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\FolderShepherdService\FileShepherd\obj\Debug\netcoreapp3.1\FileShepherd.dll
+C:\Users\Matthew\source\repos\FolderShepherdService\FileShepherd\obj\Debug\netcoreapp3.1\FileShepherd.pdb
+C:\Users\Matthew\source\repos\FolderShepherdService\FileShepherd\obj\Debug\netcoreapp3.1\FileShepherd.csprojAssemblyReference.cache
