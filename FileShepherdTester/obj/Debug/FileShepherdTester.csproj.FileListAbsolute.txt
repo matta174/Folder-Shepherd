@@ -7,3 +7,12 @@ C:\Users\Matthew\source\repos\FolderShepherdService\FileShepherdTester\obj\Debug
 C:\Users\Matthew\source\repos\FolderShepherdService\FileShepherdTester\obj\Debug\FileShepherdTester.pdb
 C:\Users\Matthew\source\repos\FolderShepherdService\FileShepherdTester\bin\Debug\FileManager.dll
 C:\Users\Matthew\source\repos\FolderShepherdService\FileShepherdTester\bin\Debug\FileManager.pdb
+C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FileShepherdTester\bin\Debug\FileShepherdTester.exe.config
+C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FileShepherdTester\bin\Debug\FileShepherdTester.exe
+C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FileShepherdTester\bin\Debug\FileShepherdTester.pdb
+C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FileShepherdTester\bin\Debug\FileManager.dll
+C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FileShepherdTester\bin\Debug\FileManager.pdb
+C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FileShepherdTester\obj\Debug\FileShepherdTester.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FileShepherdTester\obj\Debug\FileShepherdTester.csproj.CopyComplete
+C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FileShepherdTester\obj\Debug\FileShepherdTester.exe
+C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FileShepherdTester\obj\Debug\FileShepherdTester.pdb

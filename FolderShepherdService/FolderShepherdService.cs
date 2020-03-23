@@ -22,7 +22,6 @@ namespace FolderShepherdService
         System.Threading.Thread m_thread = null;
 
         //EventLog eventLog1 = new System.Diagnostics.EventLog();
-        private int eventId = 1;
         public FolderShepherdService()
         {
             InitializeComponent();
