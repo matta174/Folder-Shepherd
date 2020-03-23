@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=52D0EC1A4BCBD745BD9B59C5848C6A4A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=52D0EC1A4BCBD745BD9B59C5848C6A4A/Type/@EntryValue">project</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=52D0EC1A4BCBD745BD9B59C5848C6A4A/Name/@EntryValue">FolderShepherdUWP</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=52D0EC1A4BCBD745BD9B59C5848C6A4A/ProjectGuid/@EntryValue">7DC858EE2F0F134A904DCAE4D2BDC9B0</s:String>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">52D0EC1A4BCBD745BD9B59C5848C6A4A</s:String></wpf:ResourceDictionary>

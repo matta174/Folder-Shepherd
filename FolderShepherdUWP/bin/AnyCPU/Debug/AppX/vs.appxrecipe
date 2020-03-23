@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>THEMEMEMACHINE</Machine>
+    <WindowsUser>Matthew</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7b6cfba8-cab3-46c8-97a4-95fa8df68822</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Matthew</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>BC50654BF5F27BD72D1F30CD2FA67F28A71B44320C9913F21327BAAD27B78AA5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>7b6cfba8-cab3-46c8-97a4-95fa8df68822_1.0.0.0_neutral__fv7d1kf84c3t4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>7b6cfba8-cab3-46c8-97a4-95fa8df68822_fv7d1kf84c3t4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>7b6cfba8-cab3-46c8-97a4-95fa8df68822</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Matthew</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T19:26:03.555</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\LargeTile.scale-100.png">
+      <PackagePath>Images\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\LargeTile.scale-125.png">
+      <PackagePath>Images\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\LargeTile.scale-150.png">
+      <PackagePath>Images\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\LargeTile.scale-200.png">
+      <PackagePath>Images\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\LargeTile.scale-400.png">
+      <PackagePath>Images\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\SmallTile.scale-100.png">
+      <PackagePath>Images\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\SmallTile.scale-125.png">
+      <PackagePath>Images\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\SmallTile.scale-150.png">
+      <PackagePath>Images\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\SmallTile.scale-200.png">
+      <PackagePath>Images\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\SmallTile.scale-400.png">
+      <PackagePath>Images\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\SplashScreen.scale-100.png">
+      <PackagePath>Images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\SplashScreen.scale-125.png">
+      <PackagePath>Images\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\SplashScreen.scale-150.png">
+      <PackagePath>Images\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2020-01-28T18:32:23.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\SplashScreen.scale-400.png">
+      <PackagePath>Images\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square150x150Logo.scale-100.png">
+      <PackagePath>Images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square150x150Logo.scale-125.png">
+      <PackagePath>Images\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square150x150Logo.scale-150.png">
+      <PackagePath>Images\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square150x150Logo.scale-400.png">
+      <PackagePath>Images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.scale-100.png">
+      <PackagePath>Images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.909</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.scale-125.png">
+      <PackagePath>Images\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.scale-150.png">
+      <PackagePath>Images\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.scale-400.png">
+      <PackagePath>Images\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\StoreLogo.scale-100.png">
+      <PackagePath>Images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\StoreLogo.scale-125.png">
+      <PackagePath>Images\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\StoreLogo.scale-150.png">
+      <PackagePath>Images\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\StoreLogo.scale-200.png">
+      <PackagePath>Images\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\StoreLogo.scale-400.png">
+      <PackagePath>Images\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:56.891</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Wide310x150Logo.scale-100.png">
+      <PackagePath>Images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Wide310x150Logo.scale-125.png">
+      <PackagePath>Images\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.446</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Wide310x150Logo.scale-150.png">
+      <PackagePath>Images\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\Images\Wide310x150Logo.scale-400.png">
+      <PackagePath>Images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-23T02:11:55.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-03-23T16:49:55.573</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FileManager\bin\Debug\FileManager.dll">
+      <PackagePath>FileFolderShepherd\FileManager.dll</PackagePath>
+      <Modified>2020-03-23T16:49:54.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdService\bin\Debug\FolderShepherdService.exe">
+      <PackagePath>FileFolderShepherd\FolderShepherdService.exe</PackagePath>
+      <Modified>2020-03-23T16:49:54.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdService\bin\Debug\FolderShepherdService.exe.config">
+      <PackagePath>FileFolderShepherd\FolderShepherdService.exe.config</PackagePath>
+      <Modified>2020-01-31T18:35:11.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\source\repos\FileFolderShepherd\FileFolderShepherd\fileshepherd.ico">
+      <PackagePath>FileFolderShepherd\fileshepherd.ico</PackagePath>
+      <Modified>2020-03-23T19:25:05.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\source\repos\FileFolderShepherd\FileFolderShepherd\bin\Debug\FolderShepherd.exe">
+      <PackagePath>FileFolderShepherd\FolderShepherd.exe</PackagePath>
+      <Modified>2020-03-23T19:26:02.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matthew\source\repos\FileFolderShepherd\FileFolderShepherd\bin\Debug\FolderShepherd.exe.config">
+      <PackagePath>FileFolderShepherd\FolderShepherd.exe.config</PackagePath>
+      <Modified>2020-01-28T20:15:15.674</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
