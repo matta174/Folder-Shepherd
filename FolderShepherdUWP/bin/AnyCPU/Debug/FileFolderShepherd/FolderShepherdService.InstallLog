@@ -1,0 +1,28 @@
+﻿Installing assembly 'C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\FileFolderShepherd\FolderShepherdService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\FileFolderShepherd\FolderShepherdService.exe
+   logfile = C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\FileFolderShepherd\FolderShepherdService.InstallLog
+Installing service FolderShepherdService...
+Creating EventLog source FolderShepherdService in log Application...
+See the contents of the log file for the C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\FileFolderShepherd\FolderShepherdService.exe assembly's progress.
+The file is located at C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\FileFolderShepherd\FolderShepherdService.InstallLog.
+Rolling back assembly 'C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\FileFolderShepherd\FolderShepherdService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\FileFolderShepherd\FolderShepherdService.InstallLog
+   assemblypath = C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\FileFolderShepherd\FolderShepherdService.exe
+Restoring event log to previous state for source FolderShepherdService.
+Installing assembly 'C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\FileFolderShepherd\FolderShepherdService.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\FileFolderShepherd\FolderShepherdService.exe
+   logfile = C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\FileFolderShepherd\FolderShepherdService.InstallLog
+Installing service FolderShepherdService...
+Creating EventLog source FolderShepherdService in log Application...
+See the contents of the log file for the C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\FileFolderShepherd\FolderShepherdService.exe assembly's progress.
+The file is located at C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\FileFolderShepherd\FolderShepherdService.InstallLog.
+Rolling back assembly 'C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\FileFolderShepherd\FolderShepherdService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\FileFolderShepherd\FolderShepherdService.InstallLog
+   assemblypath = C:\Users\Matthew\Documents\GitHub\Folder-Shepherd\FolderShepherdUWP\bin\AnyCPU\Debug\FileFolderShepherd\FolderShepherdService.exe
+Restoring event log to previous state for source FolderShepherdService.

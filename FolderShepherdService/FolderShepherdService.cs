@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Configuration;
+using static System.Configuration.ConfigurationManager;
 using System.Data;
 using System.Diagnostics;
 using System.Linq;
@@ -28,6 +29,18 @@ namespace FolderShepherdService
 
         }
 
+        public void setConfigValues(string sourcefolder, string documentsfolder, string picturesfolder, string soundfolder)
+        {
+
+                Configuration configuration = OpenExeConfiguration(ConfigurationUserLevel.None);
+                configuration.AppSettings.Settings["source_folder"].Value = sourcefolder;
+                configuration.AppSettings.Settings["documents_folder"].Value = documentsfolder;
+                configuration.AppSettings.Settings["pictures_folder"].Value = picturesfolder;
+                configuration.AppSettings.Settings["music_folder"].Value = soundfolder;
+                configuration.Save();
+                RefreshSection("appSettings");
+            
+        }
 
 
         public async Task StartTimer(System.Threading.CancellationToken cancellationToken)
